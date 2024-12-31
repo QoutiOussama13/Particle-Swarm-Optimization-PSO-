@@ -1,0 +1,6 @@
+pymoo
+matplotlib
+numpy
+ipython
+basemap
+streamlit
